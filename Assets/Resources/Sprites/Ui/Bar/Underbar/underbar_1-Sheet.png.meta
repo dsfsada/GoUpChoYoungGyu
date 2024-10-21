@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 2233c189ae26d204a952454e081aceb2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underbar_1-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b4fcee198ca24b835f532f25c9491
+      internalID: -1783450303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d2dd270c13fb4eb7745adf0bdb1dd
+      internalID: -1396360757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a9694576bd3ca419ae5ab940b91c68
+      internalID: -2082137581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb240a1923bbcb9469d88e839e90ade6
+      internalID: 1357129369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79c24b1e81b0e4c851d92f97701830
+      internalID: -924956544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546aa44b296f8524fa56a4bef3eef31e
+      internalID: -532111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b9d094df6ae641a6fa33df65add26
+      internalID: 2074502785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305faba2b690d429720c99280cfe6c
+      internalID: 1662442142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6067f00f1c8cd479d5e244c098813c
+      internalID: 486650312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 320
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36623635ef91c40bbb56542abf828e
+      internalID: 1939851777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954f08ebfe810642bacdcb01b101ae0
+      internalID: 248114407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd4b68bd003c7408490de940f089ee
+      internalID: 492314281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679edd7f7400cd48a4cafb5137caabc
+      internalID: -793269718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7a9832495f7e449efa9206e778782
+      internalID: -401345151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc74bbdff15f9c4bacbdacb46c40519
+      internalID: -526040822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e42a7f0beacfe54e9bb8dc5346e6404
+      internalID: 518371769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4709c3cbef6535b4e8a37910b8364c39
+      internalID: 681107367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0417e73558c38e3479f73affd2fa12b5
+      internalID: 572175155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93b777ceb882c43b98254c3808c940
+      internalID: -432452859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 160
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d25554d065ed641b8068fc927ec8e2
+      internalID: 642084276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94afa4df480364e8b4016e6aae7c3e
+      internalID: -1799036576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a463f36b1ea54d8d219e59b3d2e86
+      internalID: -1786747076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e676fb186d3f9d46adb5e9a4c5f4afb
+      internalID: -670381914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e18e5d3d83644fb55e0079be00f2c
+      internalID: -947949829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd715ff3e0de3ba4286e787ccd57aa82
+      internalID: -1685559921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9bb3ebe1bb6241ad5ecf94e2b5a53
+      internalID: 1656728758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0823aca8cb7334147b1bc38788aff8bc
+      internalID: 838454391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444104723e901324d81e382c5a61c80f
+      internalID: 364315339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdcb251b8c25664a85a8b1b9d81886f
+      internalID: 593555381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underbar_1-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 270
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3de99fa78523b408e1a61c21f77fcb
+      internalID: -637507097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      underbar_1-Sheet_0: -1783450303
+      underbar_1-Sheet_1: -1396360757
+      underbar_1-Sheet_10: 248114407
+      underbar_1-Sheet_11: 492314281
+      underbar_1-Sheet_12: -793269718
+      underbar_1-Sheet_13: -401345151
+      underbar_1-Sheet_14: -526040822
+      underbar_1-Sheet_15: 518371769
+      underbar_1-Sheet_16: 681107367
+      underbar_1-Sheet_17: 572175155
+      underbar_1-Sheet_18: -432452859
+      underbar_1-Sheet_19: 642084276
+      underbar_1-Sheet_2: -2082137581
+      underbar_1-Sheet_20: -1799036576
+      underbar_1-Sheet_21: -1786747076
+      underbar_1-Sheet_22: -670381914
+      underbar_1-Sheet_23: -947949829
+      underbar_1-Sheet_24: -1685559921
+      underbar_1-Sheet_25: 1656728758
+      underbar_1-Sheet_26: 838454391
+      underbar_1-Sheet_27: 364315339
+      underbar_1-Sheet_28: 593555381
+      underbar_1-Sheet_29: -637507097
+      underbar_1-Sheet_3: 1357129369
+      underbar_1-Sheet_4: -924956544
+      underbar_1-Sheet_5: -532111033
+      underbar_1-Sheet_6: 2074502785
+      underbar_1-Sheet_7: 1662442142
+      underbar_1-Sheet_8: 486650312
+      underbar_1-Sheet_9: 1939851777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

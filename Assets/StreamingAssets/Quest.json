@@ -1,0 +1,279 @@
+[
+    {
+        "questName" : "",
+        "questType": "",
+        "targetValue" : 0,
+        "rewardPoints" : 0
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 5,
+        "rewardPoints" : 50
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 5,
+        "rewardPoints" : 50
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 3,
+        "rewardPoints" : 50
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 10,
+        "rewardPoints" : 200
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 10,
+        "rewardPoints" : 200
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 5,
+        "rewardPoints" : 200
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 20,
+        "rewardPoints" : 200
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 20,
+        "rewardPoints" : 200
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 10,
+        "rewardPoints" : 200
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 30,
+        "rewardPoints" : 300
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 30,
+        "rewardPoints" : 300
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 15,
+        "rewardPoints" : 300
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 40,
+        "rewardPoints" : 250
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 40,
+        "rewardPoints" : 250
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 20,
+        "rewardPoints" : 250
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 50,
+        "rewardPoints" : 300
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 50,
+        "rewardPoints" : 300
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 25,
+        "rewardPoints" : 300
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 60,
+        "rewardPoints" : 400
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 60,
+        "rewardPoints" : 400
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 30,
+        "rewardPoints" : 400
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 70,
+        "rewardPoints" : 500
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 70,
+        "rewardPoints" : 500
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 40,
+        "rewardPoints" : 500
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 80,
+        "rewardPoints" : 600
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 80,
+        "rewardPoints" : 600
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 50,
+        "rewardPoints" : 600
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 80,
+        "rewardPoints" : 700
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 80,
+        "rewardPoints" : 700
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 60,
+        "rewardPoints" : 700
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 90,
+        "rewardPoints" : 800
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 90,
+        "rewardPoints" : 800
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 70,
+        "rewardPoints" : 800
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 100,
+        "rewardPoints" : 900
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 100,
+        "rewardPoints" : 900
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 80,
+        "rewardPoints" : 900
+    },
+
+    {
+        "questName" : "공격력을 강화하십시오",
+        "questType" : "IncreaseAttack",
+        "targetValue" : 110,
+        "rewardPoints" : 1000
+    },
+    {
+        "questName" : "체력을 강화하십시오",
+        "questType" : "IncreaseHealth",
+        "targetValue" : 110,
+        "rewardPoints" : 1000
+    },
+    {
+        "questName" : "층을 올라 가십시오",
+        "questType" : "ReachFloor",
+        "targetValue" : 90,
+        "rewardPoints" : 1000
+    },
+    {
+        "questName" : "환생하십시오",
+        "questType" : "Rebirth",
+        "targetValue" : 0,
+        "rewardPoints" : 0
+    },
+    {
+        "questName" : "",
+        "questType": "",
+        "targetValue" : 0,
+        "rewardPoints" : 0
+    },
+    {
+        "questName" : "",
+        "questType": "",
+        "targetValue" : 0,
+        "rewardPoints" : 0
+    },
+    {
+        "questName" : "",
+        "questType": "",
+        "targetValue" : 0,
+        "rewardPoints" : 0
+    }
+]
