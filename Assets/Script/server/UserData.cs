@@ -1,14 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class UserData : MonoBehaviour
 {
     private UserData instance = null;
     public string id;
     public string passward;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -22,4 +20,9 @@ public class UserData : MonoBehaviour
         }
     }
 
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
 }

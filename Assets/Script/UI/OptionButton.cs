@@ -8,13 +8,16 @@ public class OptionButton : MonoBehaviour
 {
     public GameObject panel;
     private Button myButton;
+    public GameObject ButtonControl;
+    public GameObject[] RankList;
+
 
     private void Start()
     {
         myButton = GetComponent<Button>();
         panel.SetActive(false);
-
         myButton.onClick.AddListener(OnClickPanel);
+        
     }
 
     public void OnClickPanel()
@@ -26,6 +29,7 @@ public class OptionButton : MonoBehaviour
         }
         else
         {
+            GameObject.Find("ButtonControl").GetComponent<ButtonControl>().GetRank();
             // 비활성화된 상태라면 활성화
             panel.SetActive(true);
         }
